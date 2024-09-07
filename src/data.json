@@ -1,0 +1,224 @@
+{
+  "calendar": {
+    "start": "2024-09-01",
+    "end": "2024-10-21"
+  },
+  "matches": [
+    {
+      "date": "2024-09-04",
+      "time": "2024-09-04Z23:00:00",
+      "map": "haven",
+      "type": "practice"
+    },
+    {
+      "date": "2024-09-05",
+      "time": "2024-09-05Z23:00:00",
+      "map": "haven",
+      "type": "match"
+    },
+    {
+      "date": "2024-09-06",
+      "time": "2024-09-07Z00:00:00",
+      "map": "haven",
+      "type": "practice"
+    },
+    {
+      "date": "2024-09-07",
+      "time": "2024-09-08Z00:00:00",
+      "map": "haven",
+      "type": "match"
+    },
+    {
+      "date": "2024-09-08",
+      "time": "2024-09-08Z23:00:00",
+      "map": "haven",
+      "type": "match"
+    },
+
+    {
+      "date": "2024-09-11",
+      "time": "2024-09-11Z23:00:00",
+      "map": "sunset",
+      "type": "practice"
+    },
+    {
+      "date": "2024-09-12",
+      "time": "2024-09-12Z23:00:00",
+      "map": "sunset",
+      "type": "match"
+    },
+    {
+      "date": "2024-09-13",
+      "time": "2024-09-14Z00:00:00",
+      "map": "sunset",
+      "type": "practice"
+    },
+    {
+      "date": "2024-09-14",
+      "time": "2024-09-15Z00:00:00",
+      "map": "sunset",
+      "type": "match"
+    },
+    {
+      "date": "2024-09-15",
+      "time": "2024-09-15Z23:00:00",
+      "map": "sunset",
+      "type": "match"
+    },
+
+    {
+      "date": "2024-09-18",
+      "time": "2024-09-18Z23:00:00",
+      "map": "lotus",
+      "type": "practice"
+    },
+    {
+      "date": "2024-09-19",
+      "time": "2024-09-19Z23:00:00",
+      "map": "lotus",
+      "type": "match"
+    },
+    {
+      "date": "2024-09-20",
+      "time": "2024-09-21Z00:00:00",
+      "map": "lotus",
+      "type": "practice"
+    },
+    {
+      "date": "2024-09-21",
+      "time": "2024-09-22Z00:00:00",
+      "map": "lotus",
+      "type": "match"
+    },
+    {
+      "date": "2024-09-22",
+      "time": "2024-09-22Z23:00:00",
+      "map": "lotus",
+      "type": "match"
+    },
+
+    {
+      "date": "2024-09-25",
+      "time": "2024-09-25Z23:00:00",
+      "map": "abyss",
+      "type": "practice"
+    },
+    {
+      "date": "2024-09-26",
+      "time": "2024-09-26Z23:00:00",
+      "map": "abyss",
+      "type": "match"
+    },
+    {
+      "date": "2024-09-27",
+      "time": "2024-09-28Z00:00:00",
+      "map": "abyss",
+      "type": "practice"
+    },
+    {
+      "date": "2024-09-28",
+      "time": "2024-09-29Z00:00:00",
+      "map": "abyss",
+      "type": "match"
+    },
+    {
+      "date": "2024-09-29",
+      "time": "2024-09-29Z23:00:00",
+      "map": "abyss",
+      "type": "match"
+    },
+
+    {
+      "date": "2024-10-02",
+      "time": "2024-10-02Z23:00:00",
+      "map": "ascent",
+      "type": "practice"
+    },
+    {
+      "date": "2024-10-03",
+      "time": "2024-10-03Z23:00:00",
+      "map": "ascent",
+      "type": "match"
+    },
+    {
+      "date": "2024-10-04",
+      "time": "2024-10-05Z00:00:00",
+      "map": "ascent",
+      "type": "practice"
+    },
+    {
+      "date": "2024-10-05",
+      "time": "2024-10-06Z00:00:00",
+      "map": "ascent",
+      "type": "match"
+    },
+    {
+      "date": "2024-10-06",
+      "time": "2024-10-06Z23:00:00",
+      "map": "ascent",
+      "type": "match"
+    },
+
+    {
+      "date": "2024-10-09",
+      "time": "2024-10-09Z23:00:00",
+      "map": "icebox",
+      "type": "practice"
+    },
+    {
+      "date": "2024-10-10",
+      "time": "2024-10-10Z23:00:00",
+      "map": "icebox",
+      "type": "match"
+    },
+    {
+      "date": "2024-10-11",
+      "time": "2024-10-12Z00:00:00",
+      "map": "icebox",
+      "type": "practice"
+    },
+    {
+      "date": "2024-10-12",
+      "time": "2024-10-13Z00:00:00",
+      "map": "icebox",
+      "type": "match"
+    },
+    {
+      "date": "2024-10-13",
+      "time": "2024-10-13Z23:00:00",
+      "map": "icebox",
+      "type": "match"
+    },
+
+    {
+      "date": "2024-10-16",
+      "time": "2024-10-16Z23:00:00",
+      "map": "bind",
+      "type": "practice"
+    },
+    {
+      "date": "2024-10-17",
+      "time": "2024-10-17Z23:00:00",
+      "map": "bind",
+      "type": "match"
+    },
+    {
+      "date": "2024-10-18",
+      "time": "2024-10-19Z00:00:00",
+      "map": "bind",
+      "type": "practice"
+    },
+    {
+      "date": "2024-10-19",
+      "time": "2024-10-20Z00:00:00",
+      "map": "bind",
+      "type": "match"
+    },
+    {
+      "date": "2024-10-20",
+      "time": "2024-10-20Z23:00:00",
+      "map": "playoffs",
+      "type": "tournament"
+    }
+  ]
+}
