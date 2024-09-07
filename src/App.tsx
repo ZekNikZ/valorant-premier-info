@@ -1,5 +1,4 @@
 import styled from 'styled-components'
-import './App.module.css'
 import { CalendarCell } from './CalendarCell';
 import { useMemo } from 'react';
 import data from './data.json';
